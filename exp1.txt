@@ -11,3 +11,10 @@ echo "$c,$d,$e,$f"
 sum=`expr $a+$b+$c`
 avrg=`expr $sum/3`
 echo "$sum,$avrg"
+Output:
+30
+-10
+200
+0.5
+61
+20.1
